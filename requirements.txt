@@ -33,7 +33,7 @@ cryptography==42.0.5
 python-jose[cryptography]==3.3.0
 
 # ── Utilities ─────────────────────────────────
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 structlog==24.1.0
 
 # ── Optional semantic deduplication (Section 6) ───────────────
