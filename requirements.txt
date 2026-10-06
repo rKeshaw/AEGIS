@@ -37,4 +37,4 @@ python-dotenv==1.0.1
 structlog==24.1.0
 
 # ── Optional semantic deduplication (Section 6) ───────────────
-sentence-transformers==3.0.1
+sentence-transformers==5.6.0
