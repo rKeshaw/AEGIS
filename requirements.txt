@@ -24,7 +24,7 @@ alembic==1.13.1
 
 # ── Reconnaissance ────────────────────────────
 python-nmap==0.7.1
-dnspython==2.6.1
+dnspython==2.9.0
 beautifulsoup4==4.12.3
 lxml==5.1.0
 
